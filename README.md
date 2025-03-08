@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A65DF6,100:F26BFC&height=200&section=header&text=bangto's%20github!🥳&fontSize=70" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=50&pause=1000&color=8411A5&center=true&vCenter=true&width=800&height=100&separator=%3C&lines=console.log('Hi+there!');)](https://git.io/typing-svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbangto)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **kimbangto/kimbangto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
