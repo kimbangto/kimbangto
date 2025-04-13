@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=120&section=header&text=Bangto's%20Github!&fontSize=50&fontColor=3B3B3B&animation=fadeIn)
 
-# 👋 안녕하세요! Android 개발자 방토입니다 😊
+# 👋 안녕하세요! Android 개발자 🍅채연입니다 😊
 
 🎯 **Jetpack Compose**와 **MVVM 아키텍처**를 중심으로  
 클린하고 직관적인 **UX**를 설계하는 것을 좋아합니다.  
